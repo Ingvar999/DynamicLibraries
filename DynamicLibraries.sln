@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicLibraries", "DynamicLibraries\DynamicLibraries.vcxproj", "{430ABA21-C61B-4D9C-88FF-A5FC98B0C8DE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyDll", "MyDll\MyDll.vcxproj", "{6CB7D84B-CEBD-4608-978C-4AEC5DDD97D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{430ABA21-C61B-4D9C-88FF-A5FC98B0C8DE}.Release|x64.Build.0 = Release|x64
 		{430ABA21-C61B-4D9C-88FF-A5FC98B0C8DE}.Release|x86.ActiveCfg = Release|Win32
 		{430ABA21-C61B-4D9C-88FF-A5FC98B0C8DE}.Release|x86.Build.0 = Release|Win32
+		{6CB7D84B-CEBD-4608-978C-4AEC5DDD97D4}.Debug|x64.ActiveCfg = Debug|x64
+		{6CB7D84B-CEBD-4608-978C-4AEC5DDD97D4}.Debug|x64.Build.0 = Debug|x64
+		{6CB7D84B-CEBD-4608-978C-4AEC5DDD97D4}.Debug|x86.ActiveCfg = Debug|Win32
+		{6CB7D84B-CEBD-4608-978C-4AEC5DDD97D4}.Debug|x86.Build.0 = Debug|Win32
+		{6CB7D84B-CEBD-4608-978C-4AEC5DDD97D4}.Release|x64.ActiveCfg = Release|x64
+		{6CB7D84B-CEBD-4608-978C-4AEC5DDD97D4}.Release|x64.Build.0 = Release|x64
+		{6CB7D84B-CEBD-4608-978C-4AEC5DDD97D4}.Release|x86.ActiveCfg = Release|Win32
+		{6CB7D84B-CEBD-4608-978C-4AEC5DDD97D4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
